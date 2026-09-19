@@ -41,6 +41,7 @@ A sandbox-style development system for building, testing, and experimenting with
 ## 🖼️ Screenshots
 <p align="center">
   <img src="./assets/Screenshot%202026-09-19%204.47.24%20PM.png" width="400">
+ <img src="./assets/Screenshot%202026-09-19%204.52.46%20PM.png" width="400">
 </p>
 
 ---
